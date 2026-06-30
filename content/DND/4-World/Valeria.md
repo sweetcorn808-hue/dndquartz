@@ -1,0 +1,1 @@
+Where the [[The Golden Scope]] may be. Do not know if settlement, region, area, kingdom
