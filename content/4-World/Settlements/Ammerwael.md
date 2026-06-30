@@ -1,6 +1,8 @@
 ---
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
-Tags: Category/Settlement
+Tags:
+  - Category/Settlement
+  - POI
 Community-Size: City
 Alignment: Chaotic Evil
 Government: Oligarchy

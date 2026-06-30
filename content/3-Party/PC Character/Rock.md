@@ -1,11 +1,13 @@
 ---
-Tags: Category/Individual
+Tags:
+  - Category/Individual
+  - PC
 Race:
 Class:
 Gender:
 ---
 # Player Character
-#PC 
+
 
 ## Overview
 **Alignment**: Neutral

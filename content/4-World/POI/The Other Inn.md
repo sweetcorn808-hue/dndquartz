@@ -1,11 +1,13 @@
 ---
-Tags: Category/Merchant
+Tags:
+  - Category/Merchant
+  - POI
 Goods-Sold: Consumable Item
 Services-Sold: Information
 Prices: Cheap
 Quality: Average
 ---
-# Template - Merchant
+
 ## Location
 [[The Grove]]
 ## Overview

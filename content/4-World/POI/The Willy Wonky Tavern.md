@@ -19,7 +19,7 @@ next:
   - Template - Place List
 RWtopicId: Topic_22
 ---
-# Merchant
+
 ## Overview
 [[Ammerwael]] 
 
