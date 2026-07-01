@@ -119,17 +119,12 @@ What we know about [[Court of Arms]].
  
 ## Who Did They Meet?
  
-**Name.** Description
+**Name.** [[The Group]] : Leaders of [[The Grove]]
  
-**Name.** Description 
- 
-**Name.** Description 
- 
-**Name.** Description 
  
 ## Items Of Importance
  
-- Description
+- Information on [[The Golden Scope]]. It is located in [[Theoria]] and being held by the Mayor
 - 
 - 
 
