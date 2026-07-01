@@ -1,6 +1,8 @@
 ---
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
-Tags: Category/Named-Object
+Tags:
+  - Category/Named-Object
+  - item
 parent:
   - Named Object
 ---

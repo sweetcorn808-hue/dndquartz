@@ -23,7 +23,7 @@ sessionstatus:
 
 - [[Saulvin Sparrow]] led the party to a druid commune city called [[The Grove]]
 - Settled at the [[Never Named it Tavern]]- Learned towns are separated by class: druids here, merchants in Aquafor, wizards in the distant **clock tower city**
-- The Grove is run by a council of 4 called [[The group]]
+- The Grove is run by a council of 4 called [[The Group]]
 
 **Loose Ends**
 

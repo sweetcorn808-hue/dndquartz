@@ -4,26 +4,29 @@ Tags:
   - Category/Individual
   - NPC
 Location: "[[The Grove]]"
+Alignment: Neutral
+Gender: Male
+Race: Dwarf
 Character-Role: Friend
 ---
 # Individual
 
 ## Overview
 **Gender**: Male
-**Race**: Gnome
-**Age**: Adult
-**Character Role**: Friend
-**Condition**: Stoned
+**Race**: Dwarf
+**Age**: 
+**Character Role**: Apothecary shop owner 
+**Condition**: 
 
 ## Profile
-He is a smoked out gnome who saved us from the Angel tears (vines) in the swamp. 
 
+Runs an apothecary in [[The Grove]]. 
 
 ## Personal Life
-Mainly stays around [[The Grove]]. Has traveled around the peninsula
+
 
 ## Professional Life
-
+Creates potions and tinctures for [[The Grove]] 
 
 ## Other Endeavors
 
@@ -32,4 +35,3 @@ Mainly stays around [[The Grove]]. Has traveled around the peninsula
 
 
 ## Additional Details
-located in [[Ammerwael]] 

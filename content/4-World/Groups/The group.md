@@ -33,6 +33,9 @@ Leaders of [[The Grove]]
 **Leader(s)**: 
 
 **Prominent Members**: 
+* 2 dwarf:
+* 1 human:
+* 1 elf:
 
 
 ## Background

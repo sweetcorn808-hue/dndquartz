@@ -7,15 +7,6 @@ Type: Military/Police
 Alignment:
 Military-Role: Police
 Military-Organization: Secret police
-parent:
-  - Group_ Military
-up:
-  - Group_ Military
-prev:
-  - Template - Group_ Government
-next:
-  - Template - Group_ Other
-RWtopicId: Topic_17
 ---
 # Group: Military Police
 

@@ -4,30 +4,9 @@ Tags:
   - Category/Individual
   - NPC
   - Ammerwael
-Alignment: Neutral
 Gender: Male
-Race: Human
-Class: Barbarian
-Age: Adult
-Challenge: CR 1
 Character-Role: Friend
 Condition: Dead
-Appearance-Traits: Stylish
-Social-Traits: Bossy
-Mental-Traits: Ambitious
-Expertise: Administrative
-Status-Traits: Lucky
-Physical-Traits: Clumsy
-Personality-Traits: Anxious
-parent:
-  - Individual
-up:
-  - Individual
-prev:
-  - Template - Deity
-next:
-  - Template - Group List
-RWtopicId: Topic_10
 ---
 # Individual
 

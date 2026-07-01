@@ -24,12 +24,12 @@ RWtopicId: Topic_4
 given by [[Whistler]] : We are going to be leaving [[Ammerwael]] for the first time to find the
 "[[Maze Engine]]". No body knows where it is. In order to find it we are going to be looking for "[[The Golden Scope]]"  last known location was [[Valeria]].  
 
-## Relationships
-Placeholder
+## Hook
 
-## Completion
-Placeholder
+[[The Group]] in [[The Grove]] wants us to clear out the [[Court of Arms]] from the city. 
 
+For doing this they will tell us where [[The Golden Scope]] is and how we can get it.
+They gave us a note that says the [[The Golden Scope]] is in [[Theoria]] 
 ### Rewards
 We don't know
 

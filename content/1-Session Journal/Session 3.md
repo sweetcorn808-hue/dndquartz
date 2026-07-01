@@ -93,7 +93,7 @@ We arrive at a city called [[The Grove]].  It is a large hill tip town with hous
 We go to a bar called [[Never Named it Tavern]]. [[Saulvin Sparrow]] gets us drinks as we find a table and start talking among each other. 
 
 
-[[The Grove]] is a commune. [[The group]] runs it. 4 of them. Way down the road is a wizard city.  The tower we saw in the distance. All the towns are separated by group (Class). Merchant town of [[Aquafor]]. 
+[[The Grove]] is a commune. [[The Group]] runs it. 4 of them. Way down the road is a wizard city.  The tower we saw in the distance. All the towns are separated by group (Class). Merchant town of [[Aquafor]]. 
 
 ## Key Learnings
 

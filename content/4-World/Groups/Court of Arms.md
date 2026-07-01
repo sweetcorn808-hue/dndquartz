@@ -4,7 +4,7 @@ Tags:
   - Category/Group--Criminal
 Type: Criminal
 ---
-# Template - Group: Criminal
+# Group: Criminal
 ## Overview
 **Type**: Criminal
 

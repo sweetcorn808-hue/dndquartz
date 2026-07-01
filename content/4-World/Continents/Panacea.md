@@ -8,4 +8,6 @@ Tags:
 #Category/Region--Geographical 
 ## Overview
 The main land area below [[Ammerwael]] 
+![[panacea.png]]
+Is a peninsula
 

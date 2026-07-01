@@ -16,11 +16,6 @@ Alignment: Chaotic Evil
 
 **Government Organization**:  Council
 
-### Placeholder Iconography
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
-
-Placeholder
 
 ## Profile
 The ruling families of [[Ammerwael]]. They create the main council that rule along with [[The Church of Zenoth]] 

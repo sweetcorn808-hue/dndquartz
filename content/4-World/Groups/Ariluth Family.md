@@ -4,7 +4,7 @@ Tags: Category/Group--Family
 Type: Family
 Family-Notability: Politics
 ---
-# Template - Group: Family
+# Group: Family
 ## Overview
 **Type**: Family
 
