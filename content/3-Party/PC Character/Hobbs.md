@@ -52,7 +52,6 @@ He has a had a string of poorly received inventions. He is genuinely a studious 
 Although he his a full member of the Ariluth family he has always sensed he is in someway a second class citizen in his own house. Not disliked by any means but tolerated and humored. 
 
 ## Motivation and Philosophy
-Ingrained through family is the theme of, "Old Wings. Old expectations"
 He is expected to be a full and competent member of the family, regardless of how is treated behind the doors of the estate. 
 
 Will do anything to prove and secure his place in the family and society.
