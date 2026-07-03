@@ -1,5 +1,5 @@
 ---
-title: # Flight From Ammerwael
+# Flight From Ammerwael
 ---
 
 ## Welcome players
