@@ -20,28 +20,26 @@ configuration:
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
-    lightMode: 
-      light: "#f5f0e6",        // parchment-ish background
-      lightgray: "#ddd2ba",     // borders, dividers (aged paper tone)
-      gray: "#a89a7c",          // muted text, icons
-      darkgray: "#3a2a1e",      // body text (dark brown-black)
-      dark: "#1a1210",          // headings (near-black)
-      secondary: "#8b1a1a",     // deep crimson — links & accent
-      tertiary: "#b8860b",      // dark goldenrod — hover/secondary accent
-      highlight: "rgba(139, 26, 26, 0.10)",   // faint crimson wash
-      textHighlight: "#d4af3788",             // gold highlight
-   
-    darkMode: 
-      light: "#161010",        // near-black background
-      lightgray: "#3a2a2a",     // borders
-      gray: "#8a7a6a",          // muted text
-      darkgray: "#d8cfc0",      // body text (parchment-ish)
-      dark: "#f0e6d2",          // headings (pale gold-white)
-      secondary: "#c9302c",     // bright crimson — links & accent
-      tertiary: "#d4af37",      // gold — hover/secondary accent
-      highlight: "rgba(201, 48, 44, 0.15)",   // crimson glow
-      textHighlight: "#d4af3788",             // gold highlight
-
+      lightMode:
+        light: "#f5f0e6"        # parchment-ish background
+        lightgray: "#ddd2ba"     # borders, dividers (aged paper tone)
+        gray: "#a89a7c"          # muted text, icons
+        darkgray: "#3a2a1e"      # body text (dark brown-black)
+        dark: "#1a1210"          # headings (near-black)
+        secondary: "#8b1a1a"     # deep crimson — links & accent
+        tertiary: "#b8860b"      # dark goldenrod — hover/secondary accent
+        highlight: rgba(139, 26, 26, 0.10)
+        textHighlight: "#d4af3788"
+      darkMode:
+        light: "#161010"
+        lightgray: "#3a2a2a"
+        gray: "#8a7a6a"
+        darkgray: "#d8cfc0"
+        dark: "#f0e6d2"
+        secondary: "#c9302c"
+        tertiary: "#d4af37"
+        highlight: rgba(201, 48, 44, 0.15)
+        textHighlight: "#d4af3788"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
