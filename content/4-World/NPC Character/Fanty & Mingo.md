@@ -14,7 +14,7 @@ next:
   - Template - Race
 RWtopicId: Topic_50
 ---
-# General Characters Article
+# Template - General Characters Article
 ## Overview
 Placeholder
 

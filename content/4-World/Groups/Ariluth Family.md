@@ -4,7 +4,7 @@ Tags: Category/Group--Family
 Type: Family
 Family-Notability: Politics
 ---
-# Group: Family
+# Template - Group: Family
 ## Overview
 **Type**: Family
 
@@ -25,7 +25,7 @@ one of the [[Four Families]] that control [[Ammerwael]]
 ## Organization
 **Headquarters**: [[Ammerwael]]
 
-**Leader(s)**: Matriach [[Lucialial Ariluth]] Ariluth
+**Leader(s)**: Matriach [[Lucial Ariluth]] Ariluth
 
 **Prominent Members**: 
 1. Vakor "[[Hobbs]]" [[Ariluth Family|Ariluth]] - First born son

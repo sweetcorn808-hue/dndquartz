@@ -1,14 +1,14 @@
 ---
-Tags:
-  - Category/Settlement
-  - POI
+Tags: Category/Settlement
 Community-Size:
 Government:
-Location: "[[The Grove]]"
+Location:
 Government-Organization:
 ---
-# Settlement
+Where the [[The Golden Scope]] may be. Do not know if settlement, region, area, kingdom# Settlement
+---
 
+Is where [[The Grove]] currently sits. Is the old city where the [[Maze Engine]] and [[The Golden Scope]] is supposed to be.
 ## Overview
 **Community Size**: 
 **Alignment**: 
@@ -17,24 +17,26 @@ Government-Organization:
 **Commerce**: 
 **Organizations**: 
 ## Description
-> [!tip] This is [[The Grove]]
-
+**Population**: 
 
 ## Notable NPCs
 - 
 
 
 ## Notable Groups
-- Averial
+- 
+
+## Profile
+
 
 ## Story
-Was once known as Vlaeria before the Averial left [[Panacea]] and left the land to it's own devices. Now known as [[The Grove]]
+
 
 ## Points of Interest
 - 
 
 ## Valuables
-* [[The Golden Scope]]
+
 
 ## Internal Relationships
 

@@ -8,10 +8,8 @@ Prices: Cheap
 Quality: Average
 ---
 
-### Location
+## Location
 [[The Grove]]
-
-
 ## Overview
 
 

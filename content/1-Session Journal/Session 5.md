@@ -100,8 +100,6 @@ See a large circular room and circular table, 2 dwarfs, 1 elf, 1 human. Very off
 >[!note] From [[The Group]] Proof of life [[The Golden Scope]]
 >See a note, thank you for sending it on its way, we received the GS and it is safe with us. 
 >Signed Mayor of [[Theoria]]
->#mainquest
->
 
 What we know about [[Court of Arms]].
 * smugglers
@@ -119,12 +117,17 @@ What we know about [[Court of Arms]].
  
 ## Who Did They Meet?
  
-**Name.** [[The Group]] : Leaders of [[The Grove]]
+**Name.** Description
  
+**Name.** Description 
+ 
+**Name.** Description 
+ 
+**Name.** Description 
  
 ## Items Of Importance
  
-- Information on [[The Golden Scope]]. It is located in [[Theoria]] and being held by the Mayor
+- Description
 - 
 - 
 

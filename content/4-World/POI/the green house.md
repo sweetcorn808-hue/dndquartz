@@ -20,6 +20,11 @@ Goes inside and outside the hill. Animals and birds flying around.
 ## Profile
 
 
+## Story
+
+
+## Points of Interest
+
 
 ## Valuables
 

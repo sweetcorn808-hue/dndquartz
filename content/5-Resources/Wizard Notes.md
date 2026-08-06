@@ -20,7 +20,7 @@
 - banishment
 - arcane eye
 
-![[Wizard Feature table.png]]
+![[Pasted image 20260608222057.png]]
 
 ## Core Wizard Traits
 |Primary Ability|Intelligence|

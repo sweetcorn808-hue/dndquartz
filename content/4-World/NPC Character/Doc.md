@@ -12,21 +12,23 @@ Character-Role: Friend
 # Individual
 
 ## Overview
-**Gender**: Male
-**Race**: Dwarf
+**Gender**: 
+**Race**: 
 **Age**: 
-**Character Role**: Apothecary shop owner 
+**Character Role**: 
 **Condition**: 
 
 ## Profile
 
 Runs an apothecary in [[The Grove]]. 
+[[the green house]]
+
 
 ## Personal Life
 
 
 ## Professional Life
-Creates potions and tinctures for [[The Grove]] 
+
 
 ## Other Endeavors
 
