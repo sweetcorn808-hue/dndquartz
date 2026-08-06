@@ -36,30 +36,33 @@ We all have a bonding moment sharing our dreams and agree to watch out for each 
 
 We go to the police station, 
 load up on supplies and talk to the intellegence officer
+> [!tip] What we learn from the town guard intellegence
+> - spies have not been able to get very close
+>	- pairs of guards throughout the square, most in plain clothes
+>	- might have a tottoo on sholder
+>	-- there are a few police spies imbedded,
+>	- may be [[Court of Arms]] spies in the city and possible in the town guard
+>	- unconfirmed reports of
+>		- Secret underground tunnel ( may connect to [[the home office]])
+>		- May link to other underground areas, including the vault
+>	-no spies have made it into his office
+>		all who enter must be vetted and permitted
+>		Key hench men [[Starsky]] (human) and [[Brian]] (half-orc)
 
-- spies have not been able to get very close
-	- pairs of guards throughout the square, most in plain clothes
-	- might have a tottoo on sholder
-- there are a few police spies imbedded,
-- may be [[Court of Arms]] spies in the city and possible in the town guard
-- unconfirmed reports
-	- secret underground tunnel (most likely connected to [[the home office]]. may link to other areas, including vault.
-- no spies have made it into his office. they need to be vetted.
-		by human [[Starsky]] and a half orc [[Brian]] lt
-- 
-
-We discuss a variety of plans...none that great :).
+We discuss a variety of plans.
 
 we land on,
 1. We create a distraction in the market place
-2. get the guards to leave the scrappers area to deal with it
-3. we all meet and go in and take on the scrapper
+2. get the guards to leave the scrappers area so we have less to fight
+3. we all meet and then go in and take on the scrapper before back up arrives
 4. profit
+
+
 
 
 ## Key Learnings
 
-- 
+- We are all emotionally stunted
 - 
 - 
  

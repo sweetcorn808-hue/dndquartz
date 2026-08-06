@@ -30,7 +30,9 @@ Placeholder
 **Population**: This is the starting location. The traditional home of the avarial descendents. Hobbs home town.
 
 ## Notable NPCs
-[[Whistler]] [[Ariluth Family]] 
+[[Whistler]]
+[[Ariluth Family]] 
+[[Fanty & Mingo]]
 
 
 ## Notable Groups

@@ -18,6 +18,9 @@ RWtopicId: Topic_31
 
 ## Overview
 
+As of [[Session 5]]- we know the [[The Golden Scope]] is being held by the mayor of [[Theoria]]
+
+
 ## Profile
 >[!question] Do not know anything about it
 > Just that we can use it to find the [[Maze Engine]]

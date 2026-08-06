@@ -19,6 +19,10 @@ RWtopicId: Topic_31
 ## Overview
 The item the party is being sent on a [[Secret Mission|quest]] for to bring back to [[Ammerwael]]
 
+> [!info]
+> May be located in [[The Grove]], which was known as [[Valeria]]
+
+
 ## Profile
 Floating orb about 4 feet in diameter. Inside is a complex rotation of metal and gears.
 

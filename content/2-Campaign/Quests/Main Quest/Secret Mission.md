@@ -24,6 +24,12 @@ RWtopicId: Topic_4
 given by [[Whistler]] : We are going to be leaving [[Ammerwael]] for the first time to find the
 "[[Maze Engine]]". No body knows where it is. In order to find it we are going to be looking for "[[The Golden Scope]]"  last known location was [[Valeria]].  
 
+--- 
+We have found the [[The Golden Scope]] is being held in trust by [[Theoria]]. 
+Located [[Valeria]], it was located where the current settlement [[The Grove]] is. 
+	Just so happened to be the first city we stumbled across
+
+
 ## Relationships
 Placeholder
 
