@@ -51,7 +51,13 @@ The Group
 Hobbs looks around the market while invisible. 
 	Does not see any tunnels. Does not see any anti magik devices
 	Finds a passageway tunnel that goes in 20ft turns 90degrees, goes to another 75ft and the a door with the two guards [[Starsky]] and [[Brian]].
---
+
+---
+
+While Hobbs is away the rest of the group see a button on Bosworth. It is a message from [[Lucial Ariluth]] going off on Hobbs. The group responded with a message calling her out for being a bitch. Hobbs is taken aback and overcome with emotion as this is the first time anyone has ever stood up for him, especially to his mother. 
+
+---
+
 We take the shop keep and head back to the [[Court of Arms]]. 
 Shopkeep does not look confident or necissarily cooperative. 
 
@@ -74,24 +80,24 @@ Lennox says he has info on the investigation of his activities.
 
 Roc walks toward his desk but his blocked by a type of force field. 
 
-Conversation does not go well. He makes a deal that it will make it appear as though they left but wanted to tattoo us with a runic pact, we would have to kill one person at his choosing or we die. We refused this deal.
+Conversation does not go well. He makes a deal that it will make it appear as though they left but wanted to give us a [[Runic tattoo]] us with a runic pact, we would have to kill one person at his choosing or we die. We refused this deal.
 Combat.
 
 Things go worse. We end up having to get the tattoo,
 Deal is:
 They clear out the [[Court of Arms]]. If they do not clear out within 24 hours for three weeks the deal is void. Our end we have to kill someone with of his choosing within 72 hours or we die.
-We leave his. 
+We leave his office. End the session there.  
 
 
 ## Key Learnings
 
-- 
-- 
-- 
+- Scrapper is very powerful
+- We are bad at plans and negotiating
+- We now have to kill someone
  
 ## Who Did They Meet?
  
-**Name.** 
+**Name.** [[The Scrapper]]
  
 **Name.** 
  
@@ -101,7 +107,7 @@ We leave his.
  
 ## Items Of Importance
  
-- 
+- Runic tattoo
 - 
 - 
 
