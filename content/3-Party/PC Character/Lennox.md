@@ -7,7 +7,7 @@ Race:
 Class:
 ---
 # Player Character
-
+Real name is Sparkles
 ## Overview
 **Alignment**: Neutral
 
