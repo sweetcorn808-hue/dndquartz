@@ -3,7 +3,7 @@ tags:
   - SessionJournals
   - timeline
 timelines:
-sessionDate: 2026-06-08
+sessionDate: 2026-10-10
 sessionstatus:
   - Occured
 ---
@@ -17,7 +17,15 @@ sessionstatus:
 
  
 ## Session Overview 
+Start session with combat encounter
 
+> [!danger]
+>Lots of people
+>Giant portal on far end that a few vendors are throwing the last of their wares into.
+>[[Brian]] and [[Starsky]] are there and run up to confront [[Bud]] and [[Rock]] .
+>we end up keeping a few people in the area.
+>
+[[The scrapper]] appears out of the portal, holding a chain. Gives a slow clap and then says, "come on boy".
 
 
 ## Key Learnings
